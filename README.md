@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# speed-mimic-frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Recommended settings
+
+### nvm
+[https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+
+### VSCode
+
+#### Extensions
+
+* ESLint (dbaeumer.vscode-eslint)
+
+#### Settings
+
+Add this to your settings.json (command palette -> Preferences: Open User Settings (JSON))
+
+```
+"editor.codeActionsOnSave": {
+  "source.fixAll.eslint": true
+}
+```
 
 ## Available Scripts
 
